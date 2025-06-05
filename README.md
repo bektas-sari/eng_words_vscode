@@ -1,6 +1,7 @@
-# 📘 English-Turkish Vocabulary App
+# 📘 English-Turkish Vocabulary App (Flutter APP)
 
-A simple yet effective Flutter application designed to help users practice and memorize English-Turkish vocabulary pairs. Each time the user taps the button, a random English word is shown with its Turkish equivalent, making vocabulary building interactive and fun.
+A simple yet effective Flutter application designed to help users practice and memorize English-Turkish vocabulary pairs. 
+Each time the user taps the button, a random English word is shown with its Turkish equivalent, making vocabulary building interactive and fun.
 
 ---
 
