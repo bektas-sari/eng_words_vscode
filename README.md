@@ -23,6 +23,12 @@ Each time the user taps the button, a random English word is shown with its Turk
 
 ## 🛠️ Installation
 
+* Clone the repository
+  git clone https://github.com/bektas-sari/eng_words_vscode.git
+  cd egn_words_vscode
+
+---
+  
 ### Prerequisites
 
 * Flutter SDK installed
